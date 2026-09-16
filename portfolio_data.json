@@ -1,0 +1,56 @@
+{
+  "profile": {
+    "name": "Prantik",
+    "logo_img": "../frames/frame.webp/frame_0002.webp",
+    "title_lines": ["Welcome to My", "Portfolio"],
+    "subtitle": "Hi, it's Prantik",
+    "typewriter_roles": ["Programmer", "Freelancer", "Web Designer", "Digital Creator"],
+    "paragraphs": [
+      "I am a web developer specializing in <strong>CSS and Java</strong> as my primary frontend technologies. I have worked on various projects, including personal websites, e-commerce platforms, and portfolio sites. My goal is to create visually appealing and functional websites that provide an excellent user experience.",
+      "In my free time, I enjoy learning new technologies and staying up-to-date with the latest trends in web development. I am always looking for new challenges."
+    ]
+  },
+  "about": {
+    "title": "About Me",
+    "description": "I am a passionate web developer with a keen eye for aesthetics. I love building beautiful, functional, and user-friendly websites.",
+    "skills": [
+      { "name": "HTML", "link": "https://encrypt-essay-doctrine.ngrok-free.dev/Practical%20LAB%20for%20class%20BCAO/HTML/" },
+      { "name": "CSS", "link": "https://encrypt-essay-doctrine.ngrok-free.dev/other%20files/programming%20files/css%20full/" },
+      { "name": "JavaScript", "link": "https://encrypt-essay-doctrine.ngrok-free.dev/Practical%20LAB%20for%20class%20BCAO/Node.js/" },
+      { "name": "PHP", "link": "https://encrypt-essay-doctrine.ngrok-free.dev/other%20files/php%20practice/" },
+      { "name": "MySQL", "link": "https://encrypt-essay-doctrine.ngrok-free.dev/phpmyadmin/index.php?lang=en" },
+      { "name": "Java", "link": "https://encrypt-essay-doctrine.ngrok-free.dev/other%20files/programming%20files/java-basics/" }
+    ]
+  },
+  "projects": [
+    {
+      "title": "Portfolio Website",
+      "description": "A dynamic, animated personal portfolio website built with modern UI principles and smooth interactions.",
+      "link": "https://encrypt-essay-doctrine.ngrok-free.dev/prantik-website/"
+    },
+    {
+      "title": "E-commerce Website",
+      "description": "A full-featured online store with a custom storefront, secure checkout, and product management.",
+      "link": "https://superprofile.bio/pkboro12/NUllicXznp"
+    },
+    {
+      "title": "Backend Architecture",
+      "description": "Robust backend systems, secure API design, and scalable database management using PHP & MySQL.",
+      "link": "https://encrypt-essay-doctrine.ngrok-free.dev/phpmyadmin/index.php?lang=en"
+    }
+  ],
+  "contact": {
+    "title": "Contact Me",
+    "description": "Feel free to reach out for collaborations, inquiries, or just a friendly chat. I'm always open to discussing new projects and opportunities.",
+    "email": "prantikboro369@gmail.com",
+    "phone": "+91 8474831319",
+    "socials": [
+      { "icon": "fab fa-facebook", "link": "https://www.facebook.com/share/1PVwXzEJZG/" },
+      { "icon": "fab fa-twitter", "link": "https://twitter.com" },
+      { "icon": "fab fa-linkedin", "link": "https://www.linkedin.com/in/prantik-boro-8625a0386" },
+      { "icon": "fab fa-github", "link": "https://github.com/prantikboro866-del" },
+      { "icon": "fab fa-instagram", "link": "https://www.instagram.com/p_kboro12?igsh=dHluYWE0am9ldXB4" },
+      { "icon": "fab fa-whatsapp", "link": "https://wa.me/8474831319" }
+    ]
+  }
+}
