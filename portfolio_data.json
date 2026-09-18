@@ -1,7 +1,7 @@
 {
   "profile": {
     "name": "Prantik",
-    "logo_img": "../frames/frame.webp/frame_0002.webp",
+    "logo_img": "./frames/frame.webp/frame_0001.webp",
     "title_lines": ["Welcome to My", "Portfolio"],
     "subtitle": "Hi, it's Prantik",
     "typewriter_roles": ["Programmer", "Freelancer", "Web Designer", "Digital Creator"],
@@ -42,14 +42,14 @@
   "contact": {
     "title": "Contact Me",
     "description": "Feel free to reach out for collaborations, inquiries, or just a friendly chat. I'm always open to discussing new projects and opportunities.",
-    "email": "prantikboro369@gmail.com",
+    "email": "prantikboro9957@gmail.com",
     "phone": "+91 8474831319",
     "socials": [
       { "icon": "fab fa-facebook", "link": "https://www.facebook.com/share/1PVwXzEJZG/" },
       { "icon": "fab fa-twitter", "link": "https://twitter.com" },
       { "icon": "fab fa-linkedin", "link": "https://www.linkedin.com/in/prantik-boro-8625a0386" },
       { "icon": "fab fa-github", "link": "https://github.com/prantikboro866-del" },
-      { "icon": "fab fa-instagram", "link": "https://www.instagram.com/p_kboro12?igsh=dHluYWE0am9ldXB4" },
+      { "icon": "fab fa-instagram", "link": "https://www.instagram.com/p_kboro?igsh=dHluYWE0am9ldXB4" },
       { "icon": "fab fa-whatsapp", "link": "https://wa.me/8474831319" }
     ]
   }

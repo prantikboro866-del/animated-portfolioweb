@@ -44,12 +44,12 @@ document.addEventListener('DOMContentLoaded', () => {
                 body   : JSON.stringify({ name, email, message })
             });
 
-            // Try to parse JSON — if PHP errored out, give a useful message
+            // Read the body once so JSON and non-JSON responses are both handled safely.
+            const text = await response.text();
             let result;
             try {
-                result = await response.json();
+                result = JSON.parse(text);
             } catch {
-                const text = await response.text();
                 console.error('Non-JSON response from server:', text);
                 throw new Error('Server returned an unexpected response. Check PHP error logs.');
             }
