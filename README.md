@@ -1,3 +1,3 @@
 # animated-portfolioweb
 
-visit my website : https://animated-portfoliowebs.netlify.app
+visit my website : https://prantik-portfolio.netlify.app/
